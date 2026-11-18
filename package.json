@@ -1,6 +1,6 @@
 {
   "name": "websocket-subprotocol-negotiation-lib",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Selects a WebSocket subprotocol by matching client offers to server-supported ones.",
   "type": "module",
   "main": "src/index.js",
